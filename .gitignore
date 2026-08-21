@@ -1,0 +1,23 @@
+# =========================
+# Backend
+# =========================
+
+civicpulse-backend/.env
+civicpulse-backend/__pycache__/
+civicpulse-backend/*.pyc
+
+
+# =========================
+# Frontend
+# =========================
+
+civicpulse-frontend/node_modules/
+civicpulse-frontend/dist/
+
+
+# =========================
+# Environment files
+# =========================
+
+.env
+.env.local
